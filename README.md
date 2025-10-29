@@ -10,7 +10,7 @@ I'm **Fábio Almeida**, a 22yo Computer Engineering student from Portugal 🇵�
 # 👨🏻‍💻 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,django,html,css,js,react,git,github" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,django,mysql,sqlite,html,css,js,react,git,github" />
   </a>
 </p>
 
