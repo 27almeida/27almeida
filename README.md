@@ -1,18 +1,29 @@
-# 👋 Hi there!
+# 👋 Hello, World! 
 
-I'm **Fábio Almeida**, a 22yo Computer Engineering student from Portugal 🇵🇹  
+I'm a **Software Engineering Student** passionate about solving complex problems through code. While I prefer to let my projects speak for my identity, my commitment to building efficient and scalable systems is always front and center.
 
-- 💻 Passionate about backend development and building solid, scalable systems
-- 🧠 Interested in systems that make processes more efficient  
-- ☕ Coffee and clean code are my best combo  
-- 📫 Reach me anytime through GitHub or LinkedIn
+### 🔍 About Me
+- 💻 **Backend Enthusiast:** I love architecting solid systems and exploring what happens under the hood.
+- 🧠 **Efficiency Driven:** Always looking for ways to optimize processes and make code run smoother.
+- ☕ **Fuel:** Powered by coffee and the satisfaction of a clean, bug-free pull request.
+- 🛠️ **Philosophy:** Keep it simple, keep it modular, and always keep learning.
 
-# 👨🏻‍💻 Tech Stack
+---
+
+### 👨🏻‍💻 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,django,mysql,sqlite,html,css,js,react,git,github" />
   </a>
 </p>
 
-# 📊 Stats
-![Almeida's GitHub stats](https://github-readme-stats.vercel.app/api?username=27almeida&theme=tokyonight)
+---
+
+### 📊 My Coding Activity
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=27almeida&theme=tokyonight&show_icons=true)
+
+---
+
+### 📫 Get in touch
+Since I maintain a low profile, the best way to reach me is right here:
+- **GitHub:** Open an issue or start a discussion in one of my repositories!
