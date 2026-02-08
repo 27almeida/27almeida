@@ -19,10 +19,6 @@ I'm a **Software Engineering Student** passionate about solving complex problems
 
 ---
 
-### 📊 My Coding Activity
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=27almeida)](https://github.com/27almeida/github-readme-stats)
----
-
 ### 📫 Get in touch
 Since I maintain a low profile, the best way to reach me is right here:
 - **GitHub:** Open an issue or start a discussion in one of my repositories!
