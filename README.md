@@ -20,8 +20,7 @@ I'm a **Software Engineering Student** passionate about solving complex problems
 ---
 
 ### 📊 My Coding Activity
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=27almeida&theme=tokyonight&show_icons=true)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=27almeida)](https://github.com/27almeida/github-readme-stats)
 ---
 
 ### 📫 Get in touch
