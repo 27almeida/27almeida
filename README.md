@@ -1,6 +1,6 @@
 # 👋 Hello, World! 
 
-I'm a **Software Engineering Student** passionate about solving complex problems through code. While I prefer to let my projects speak for my identity, my commitment to building efficient and scalable systems is always front and center.
+I'm a **Software Engineer** passionate about solving complex problems through code. While I prefer to let my projects speak for my identity, my commitment to building efficient and scalable systems is always front and center.
 
 ### 🔍 About Me
 - 💻 **Backend Enthusiast:** I love architecting solid systems and exploring what happens under the hood.
@@ -13,7 +13,7 @@ I'm a **Software Engineering Student** passionate about solving complex problems
 ### 👨🏻‍💻 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,django,mysql,sqlite,html,css,js,react,git,github" />
+    <img src="https://skillicons.dev/icons?i=cs,py,django,mysql,sqlite,html,css,js,react,git,github" />
   </a>
 </p>
 
