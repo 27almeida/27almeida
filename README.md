@@ -6,7 +6,7 @@ Currently working mostly with **C#** and **ASP.NET Core**.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,git,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git" />
   </a>
 </p>
 
